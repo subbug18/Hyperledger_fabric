@@ -1,0 +1,17 @@
+
+
+
+Prerrequisites:
+
+http://hyperledger-fabric.readthedocs.io/en/latest/install.html
+
+curl -sSL http://bit.ly/2ysbOFE | bash -s 1.2.0
+curl -sSL http://bit.ly/2ysbOFE | bash -s <fabric> <fabric-ca> <thirdparty>
+curl -sSL http://bit.ly/2ysbOFE | bash -s 1.2.0 1.2.0 0.4.10
+
+#Setting Hyper_ledger bin  path
+export PATH=~/Hyperledger_fabric/fabric-samples/bin:$PATH
+#END of Hyper_ledger path
+
+
+
